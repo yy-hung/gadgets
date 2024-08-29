@@ -1,4 +1,5 @@
 #瑞士轮欧冠抽签模拟器_经常不成功版_2024
+#Champions League | Swiss Model Drawing Simulation | 2024 | Simplified Chinese Ver. 
 import random
 
 class Club:
